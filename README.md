@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm [Your Name]</h1>
+  <h1>Hi, I'm George</h1>
   <h3>Full-Stack Developer | Building scalable web apps and interactive experiences</h3>
 
   <p>
