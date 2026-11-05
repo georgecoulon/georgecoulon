@@ -120,12 +120,12 @@ Currently open to full-time Full-Stack, Frontend, and Backend roles.
 ### GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsernameHere&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsernameHere&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=georgecoulon&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=georgecoulon&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsernameHere&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=georgecoulon&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ### Education
